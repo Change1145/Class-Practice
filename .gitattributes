@@ -1,7 +1,7 @@
 
 void OnMove(InputValue value)
 {
-    Vector2 movement = value.Get<Vector2>();
+    Vector2 movement == value.Get<Vector2>();
 
     Debug.Log(movement);
 }
